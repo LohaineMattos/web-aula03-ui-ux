@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nome": "Blusa",
+        "descricao": "Camiseta branca adulto flame",
+        "preco": 70.0,
+        "imagem": "https://www.ditorini.com.br/cdn/shop/products/S5f2ba0ffb90a4534bf879aca1b4d91951.jpg?v=1689430545"
+    },
+    {
+        "id": 2,
+        "nome": "Calça",
+        "descricao": "Calça Jogger Verde adulto",
+        "preco": 150.0,
+        "imagem": "https://larel.cdn.magazord.com.br/img/2022/08/produto/5509/tpd-9103.jpg?ims=fit-in/635x865/filters:fill(white)"
+    },
+    {
+        "id": 3,
+        "nome": "Blusa",
+        "descricao": "Camiseta Musgo feminina flame",
+        "preco": 55.0,
+        "imagem": "https://static.ecosweb.com.br/public/produtos/moda-feminina/blusa-manga-longa/blusa-feminina-manga-longa-verde_726511_301_1.webp"
+    },
+    {
+        "id": 4,
+        "nome": "Calça",
+        "descricao": "Calça Jeans Lavagem Clara Pantalona",
+        "preco": 255.0,
+        "imagem": "https://lojamurau.vteximg.com.br/arquivos/ids/185843-1000-1000/Calca-Jeans-M4115057-3.jpg?v=638187407625170000"
+    },
+    {
+        "id": 5,
+        "nome": "Tênis",
+        "descricao": "Tênis unissex Nike SB Force 58 Pine Green",
+        "preco": 150.0,
+        "imagem": "https://overboard.vteximg.com.br/arquivos/ids/369450-1000-1000/Tenis-Unissex-Nike-SB-Force-58-Pine-Green-VERDE-DV5477-300-0.jpg?v=638337709387830000"
+    },
+    {
+        "id": 6,
+        "nome": "Boné",
+        "descricao": "Boné aba curva preto",
+        "preco": 58.0,
+        "imagem": "https://down-br.img.susercontent.com/file/229bd771c754fbf4481c6e47fc8804a4"
+    },
+    {
+        "id": 7,
+        "nome": "Bolsa",
+        "descricao": "Bolsa branca com detalhes em dourados",
+        "preco": 100.0,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLcsH5Vo0kyJYzZeGwXxCL-Fdk5MmaEzbeqA&s"
+    },
+    {
+        "id": 8,
+        "nome": "Relógio",
+        "descricao": "Relógio analógico dourado moundaine",
+        "preco": 800.0,
+        "imagem": "https://imgs.casasbahia.com.br/1563542049/1xg.jpg?imwidth=500"
+    }
+]

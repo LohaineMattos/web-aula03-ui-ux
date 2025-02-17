@@ -1,0 +1,47 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:  #9db9ac;
+}
+
+header, footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #4a6659;
+    color: #000000;
+}
+
+#product-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
+    padding: 1em;
+}
+
+.card {
+    border: 1px solid #96cdb4;
+    border-radius: 5px;
+    padding: 1em;
+    text-align: center;
+    background-color: #2d3a34;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 1px solid #96cdb4;
+    margin-bottom: 1em;
+}
+
+.card h2 {
+    font-size: 1.2em;
+    margin: 0.5em 0;
+    color: #ffffff;
+}
+
+.card p {
+    font-size: 1em;
+    color: #ffffff;
+}

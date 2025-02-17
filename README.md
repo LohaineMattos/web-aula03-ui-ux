@@ -10,3 +10,10 @@
 ## Desafio 03 - UX (User Experience)
 - A: Para melhorar a experiência do usuário, crie uma nova página html agora chamada **index.html** adicione dois botões no cabeçalho, um para exibir em cards e outro para exibir em lista os produtos do arquivo **[produtos.json](./produtos.json)**.
 
+## Página HTML
+
+(./Desafios_pfe_Aula03/Desafios/img/index_inicial.png)
+(./Desafios_pfe_Aula03/Desafios/img/index_listas.png)
+(./Desafios_pfe_Aula03/Desafios/img/index_cards1.png)
+(./Desafios_pfe_Aula03/Desafios/img/index_cards2.png)
+(./Desafios_pfe_Aula03/Desafios/img/index_cards3.png)
