@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/a798ccdf-29f8-4c62-b72c-6f061990b97f)# DESAFIOS-PFE_AULA03
-
 ## Desafio 01 - Cards
 - A: Renderize em uma página HTML em cards com as informações de produtos do arquivo **[produtos.json](./produtos.json)**, não é necessário que os cards contenham todas as informações do arquivo, mas é necessário que contenham a imagem, o nome e o preço do produto.
 - B: Adicione responsividade à página, de forma que os cards sejam exibidos em uma única coluna em telas menores e em até 4 colunas em telas maiores, para testar acrescente mais produtos ao JSON.
